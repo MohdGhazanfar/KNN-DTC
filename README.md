@@ -14,10 +14,6 @@ To run the code, you need to have Python 3 and the following libraries installed
     • numpy
     • pandas
     • matplotlib
+    • seaborn
 
-**Usage:**
 
-To run the KNN and decision tree classifiers, run the following commands in the terminal:
-
-python KNN.py
-python DTC.py
